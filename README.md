@@ -19,12 +19,12 @@ Clone this repository or download the safari-update-pre-sequoia.sh file.
 
 **2. Grant Execute Permissions**
 Ensure the script is executable by running:
-  chmod +x safari-update-pre-sequoia.sh
+  chmod +x safariupdate-pre-sequoia.sh
 
 **3. Run the Script**
 Execute the script using:
 
-./safari-update-pre-sequoia.sh
+./safariupdate-pre-sequoia.sh
 
 The script will:
 
