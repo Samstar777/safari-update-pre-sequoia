@@ -7,10 +7,9 @@ This script is designed to check for and install Safari updates on macOS devices
 - Checks for available Safari updates.
 - Installs the latest Safari update if available.
 
-Prerequisites
+**Prerequisites**
 
 - macOS version earlier than macOS Sequoia.
-- Admin privileges (script requires sudo for software updates if ran locally on mac device).
 
 **Usage**
 
